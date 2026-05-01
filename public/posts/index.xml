@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Harshana&#39;s Notes</title>
+    <link>http://localhost:59568/posts/</link>
+    <description>Recent content in Posts on Harshana&#39;s Notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2026 11:46:52 +0530</lastBuildDate>
+    <atom:link href="http://localhost:59568/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Vampire Generation: Scott Galloway on Masculinity, Money, and the Crisis of the Young Man</title>
+      <link>http://localhost:59568/posts/vampire-generation/</link>
+      <pubDate>Fri, 01 May 2026 11:46:52 +0530</pubDate>
+      <guid>http://localhost:59568/posts/vampire-generation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;A structured essay drawn from Scott Galloway&amp;rsquo;s conversation with Andrew Huberman on the Huberman Lab podcast.&lt;/em&gt;&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sQcS6f2qYoQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Across a wide-ranging conversation with neuroscientist Andrew Huberman, NYU professor Scott Galloway lays out a sweeping diagnosis of what is going wrong for young men in America today — and a set of unusually concrete prescriptions for what they, and the rest of society, can do about it. Galloway is a self-described progressive, a serial entrepreneur, and an educator who has built much of his public work around the economic and emotional plight of young men. The conversation moves through masculinity, big tech, alcohol, pornography, the dating market, and intergenerational wealth transfer, but a single thread runs through all of it: the systems young men are coming of age inside have been quietly redesigned to extract from them, and most of the adults in the room are either profiting from that arrangement or looking away.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:59568/posts/hello/</link>
+      <pubDate>Fri, 01 May 2026 11:35:21 +0530</pubDate>
+      <guid>http://localhost:59568/posts/hello/</guid>
+      <description>&lt;p&gt;Hello there!&lt;/p&gt;
+&lt;p&gt;This is my new blog. Lot of you may know me as a techie but I have other interests.&lt;/p&gt;
+&lt;p&gt;I am going to use this space to dump my thoughts on them. I will write about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mindfulness&lt;/li&gt;
+&lt;li&gt;Philosophy&lt;/li&gt;
+&lt;li&gt;YouTube Videos I watched - Instead of watching 2 to 3 hour podcasts, I try to get the transcript and read them with Claude. So, I am going to post them here.&lt;/li&gt;
+&lt;li&gt;Tech but in a different angle.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

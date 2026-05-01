@@ -1,0 +1,13 @@
+baseURL: https://notes.harshana.xyz/
+locale: en-us
+title: Harshana's Notes
+theme: ["PaperMod"]
+
+params:
+  mainSections:
+    - posts
+
+  homeInfoParams:
+    Title: "Harshana's Notes"
+    Content: >
+      Welcome to my blog! I am going to write about various things here.
