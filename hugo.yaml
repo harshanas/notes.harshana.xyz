@@ -11,3 +11,7 @@ params:
     Title: "Harshana's Notes"
     Content: >
       Welcome to my blog! I am going to write about various things here.
+
+caches:
+  images:
+    dir: :cacheDir/images
